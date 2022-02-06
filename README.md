@@ -20,3 +20,36 @@
 ### Imagem
 
 ![image](https://user-images.githubusercontent.com/85199880/152700859-40924ae3-1f44-4a76-8abd-85c8960f51e0.png)
+
+### Instalação
+
+1. Clone o repositório com algum dos comandos abaixo
+```sh
+git clone git@github.com:Falcowoski/battle-against-monokuma-in-react-and-ts.git
+```
+```sh
+git clone https://github.com/Falcowoski/battle-against-monokuma-in-react-and-ts.git
+```
+
+2. Navegue para o repositório com o comando 
+```
+cd battle-against-monokuma-in-react-and-ts
+```
+
+3. Instale todas as dependências com o comando
+```
+npm install
+```
+
+4. Execute a aplicação em localhost com o comando
+```
+npx vite
+```
+
+5. Para testar o funcionamento da aplicação com Jest e React Testing Library, use o comando
+```
+npm test
+```
+
+
+
