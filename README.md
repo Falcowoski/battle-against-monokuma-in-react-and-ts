@@ -46,10 +46,16 @@ npm install
 npx vite
 ```
 
-5. Para testar o funcionamento da aplicação com Jest e React Testing Library, use o comando
+### Testes Unitários
+
+1. Para testar o funcionamento da aplicação com Jest e React Testing Library, use o comando abaixo dentro da pasta raiz do projeto
 ```
 npm run test
 ```
+
+#### Output esperado
+![image](https://user-images.githubusercontent.com/85199880/152701944-7fd29f86-f507-4a50-a468-c968e85dc128.png)
+
 
 
 
