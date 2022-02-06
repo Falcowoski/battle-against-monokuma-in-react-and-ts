@@ -48,7 +48,7 @@ npx vite
 
 5. Para testar o funcionamento da aplicação com Jest e React Testing Library, use o comando
 ```
-npm test
+npm run test
 ```
 
 
