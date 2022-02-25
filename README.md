@@ -7,11 +7,11 @@
 
 ### Principais Tecnologias
 
-- React.JS (17.0)
-- TypeScript (4.4)
-- Jest (27.5)
-- React Testing Library (12.1)
-- Vite (2.7)
+- React.JS **17.0**
+- TypeScript **4.4**
+- Jest **27.5**
+- React Testing Library **12.1**
+- Vite **2.7**
 
 ### GitHub Pages
 
